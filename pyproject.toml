@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "terminal-controller-uvx"
-version = "0.1.2"
+version = "0.1.3"
 description = "A terminal controller MCP server for UVx"
 readme = "README.md"
 authors = [
