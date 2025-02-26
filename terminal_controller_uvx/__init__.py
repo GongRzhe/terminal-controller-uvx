@@ -11,7 +11,7 @@ from .core import (
     run_server
 )
 
-__version__ = "0.1.0"
+__version__ = "0.1.2"
 
 def main():
     """Entry point for the Terminal Controller UVx package when installed via UVx"""
