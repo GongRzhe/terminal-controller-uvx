@@ -8,7 +8,7 @@ with open("requirements.txt", "r", encoding="utf-8") as f:
 
 setup(
     name="terminal-controller-uvx",
-    version="0.1.0",
+    version="0.1.1",
     author="UVx Project",
     author_email="info@uvx.org",
     description="A terminal controller MCP server for UVx",
